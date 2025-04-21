@@ -1,0 +1,14 @@
+﻿pandas
+numpy
+spacy>=3.0.0,<4.0.0
+spacy-transformers>=1.1.0,<1.2.0
+negspacy>=1.0.0,<1.1.0
+scikit-learn>=1.0.0,<1.2.0
+lightgbm>=3.0.0,<4.0.0
+shap>=0.40.0,<0.42.0
+matplotlib>=3.0.0,<4.0.0
+seaborn>=0.11.0,<0.13.0
+joblib>=1.0.0,<1.2.0
+ipykernel 
+jupytext 
+nbformat 
